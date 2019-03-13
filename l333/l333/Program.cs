@@ -10,6 +10,14 @@ namespace l333
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter A: ");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter b: ");
+            int b = int.Parse(Console.ReadLine());
+
+
+
+            Console.ReadKey();
         }
     }
 }
