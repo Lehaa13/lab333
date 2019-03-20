@@ -31,7 +31,8 @@ namespace l333
                     Console.WriteLine($"{a - b}");
                     break;
                 case "3":
-                   
+                    Console.WriteLine($"{a * b}");
+                    break;
                 case "4":
                    
             }
