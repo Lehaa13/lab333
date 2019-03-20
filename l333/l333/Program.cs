@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace l333
 {
     class Program
@@ -14,16 +13,23 @@ namespace l333
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter b: ");
             int b = int.Parse(Console.ReadLine());
+            Console.WriteLine("1. To fold");
+            Console.WriteLine("2. To subtract");
+            Console.WriteLine("3. To multiply");
+            Console.WriteLine("4. To split");
+
+
 
             String str = Console.ReadLine();
             switch (str)
             {
                 case "1":
-
+                    Console.WriteLine($"{a + b}");
+                    break;
                 case "2":
 
                 case "3":
-
+                    
                 case "4":
 
             }
@@ -31,4 +37,3 @@ namespace l333
         }
     }
 }
-
