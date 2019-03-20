@@ -15,9 +15,20 @@ namespace l333
             Console.WriteLine("Enter b: ");
             int b = int.Parse(Console.ReadLine());
 
+            String str = Console.ReadLine();
+            switch (str)
+            {
+                case "1":
 
+                case "2":
 
+                case "3":
+
+                case "4":
+
+            }
             Console.ReadKey();
         }
     }
 }
+
