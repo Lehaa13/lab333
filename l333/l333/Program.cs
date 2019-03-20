@@ -31,7 +31,9 @@ namespace l333
                 case "3":
                    
                 case "4":
-                   
+                    Console.WriteLine($"{a / b}");
+                    break;
+
             }
             Console.ReadKey();
         }
