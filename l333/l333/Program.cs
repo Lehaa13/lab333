@@ -15,6 +15,7 @@ namespace l333
             Console.WriteLine("Enter b: ");
             int b = int.Parse(Console.ReadLine());
 
+           .
 
 
             Console.ReadKey();
