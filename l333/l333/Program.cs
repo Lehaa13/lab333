@@ -26,7 +26,8 @@ namespace l333
             switch (str)
             {
                 case "1":
-                   
+                    Console.WriteLine($"{a + b}");
+                    break;
                 case "2":
                     
                 case "3":
