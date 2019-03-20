@@ -29,7 +29,8 @@ namespace l333
                 case "2":
                     
                 case "3":
-                   
+                    Console.WriteLine($"{a * b}");
+                    break;
                 case "4":
                    
             }
