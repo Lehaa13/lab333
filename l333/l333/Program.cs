@@ -19,7 +19,7 @@ namespace l333
             Console.WriteLine("3. To multiply");
             Console.WriteLine("4. To split");
 
-           .
+           
 
 
             String str = Console.ReadLine();
