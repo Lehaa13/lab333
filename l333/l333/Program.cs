@@ -27,7 +27,7 @@ namespace l333
                     Console.WriteLine($"{a + b}");
                     break;
                 case "2":
-
+                    
                 case "3":
                     
                 case "4":
